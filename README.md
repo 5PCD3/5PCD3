@@ -1,3 +1,35 @@
+<div align="center">
+  <img src="link-to-profile-picture" alt="Profile Picture" width="200"/>
+</div>
+
+# 👋 Hello, I'm Priyangshu Chandra Das
+
+I'm a Machine Learning and Data Science enthusiast passionate about using AI to solve real-world problems. Here you'll find some of my notable projects and contributions.
+
+## 🚀 Projects
+
+- ![Project 1](link-to-project-image): Brief description.
+- ![Project 2](link-to-project-image): Brief description.
+- ![Project 3](link-to-project-image): Brief description.
+
+## 💡 Contributions
+
+- [Open Source Project 1](link-to-contrib): What you did.
+- [Open Source Project 2](link-to-contrib): What you did.
+
+## ✍️ Blog and Articles
+
+- [Blog 1](link-to-blog): A short description.
+- [Blog 2](link-to-blog): A short description.
+
+## 📫 Get in Touch
+
+- LinkedIn: [![LinkedIn](linkedin-icon-link)](link-to-linkedin)
+- Twitter: [![Twitter](twitter-icon-link)](link-to-twitter)
+- Website: [![Website](website-icon-link)](link-to-website)
+
+</div>
+
 # Portfolio-Template
 A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
 
