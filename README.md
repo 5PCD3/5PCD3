@@ -1,7 +1,7 @@
 
 ## Welcome 👋🏼
 
-Hey there! I’m **Priyangshu Chandra Das**, currently pursuing my **Bachelor of Technology** at the **[National Institute of Technology Agartala](https://www.nita.ac.in/)**. I’ve gained solid hands-on experience in Python, Data Structures and Algorithms (DSA), Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. When I’m not coding, you’ll likely find me playing or watching football ⚽️.
+Hey there! I’m **Priyangshu Chandra Das**, currently pursuing my **Bachelor of Technology** from **[National Institute of Technology Agartala](https://www.nita.ac.in/)**. I’ve gained solid hands-on experience in Python, Data Structures and Algorithms (DSA), Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. When I’m not coding, you’ll likely find me playing or watching football ⚽️.
 
 ---
 
